@@ -1,0 +1,15 @@
+[
+	{
+		"relation": [
+			"delegate_permission/common.handle_all_urls"
+		],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.app.elfolz.ntrega",
+			"sha256_cert_fingerprints": [
+				"11:54:33:AC:0A:8F:C0:8C:AA:11:AF:E0:58:97:48:98:85:75:38:A8:29:BB:FB:E6:DA:87:00:2A:07:DA:47:28",
+				"27:FB:13:5C:42:13:62:F0:EF:EB:71:96:AE:CE:AB:DB:FF:6F:42:68:30:93:B7:EE:5B:0F:11:FB:53:68:50:B0"
+			]
+		}
+	}
+]
